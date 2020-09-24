@@ -4,6 +4,7 @@
 ### Features
 <hr>
 This project is a single page  Responsive design which prepared using vector illustrations for the combi brand.
+( This project is a Test Case sent by the company. Therefore links are empty. Because they are not requested in the test.)
 
 
 ### Used
@@ -19,10 +20,8 @@ This project is a single page  Responsive design which prepared using vector ill
  
  
  **Note:** 
- This project is a Test Case sent by the company. Therefore links are empty. Because they are not requested in the test.
- 
- 
- 
+ "Haberler/Duyurular" and "İletişim" links are available on navbar.Also burger menu is working  but not visible on the github pages.Therefore you can see when you get local and the burger menu is working.
+
  
 ### Build Setup
 <hr>
